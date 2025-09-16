@@ -1,1 +1,6 @@
-{ "require": { "php": ">=7.4" } }
+{
+    "name": "vendor/project",
+    "require": {
+        "php": "^8.0"
+    }
+}
